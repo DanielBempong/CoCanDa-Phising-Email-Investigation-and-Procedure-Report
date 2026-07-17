@@ -1,0 +1,2 @@
+# CoCanDa-Phising-Email-Investigation-and-Procedure-Report
+This repository contains a detailed phishing email investigation conducted as part of a Security Operations Center (SOC)and Digital Forensics &amp; Incident Response (DFIR) case study. The objective of the investigation was to analyze a suspicious email, identify indicators of compromise (IOCs), determine the attacker’s methodology, and document.
